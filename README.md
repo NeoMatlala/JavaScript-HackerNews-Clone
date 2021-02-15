@@ -15,4 +15,4 @@
 
 
 ## See it live
-Here's the live link:
+Here's the live link: https://neomatlala.github.io/JavaScript-HackerNews-Clone/
